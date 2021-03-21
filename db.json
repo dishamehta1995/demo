@@ -1,6 +1,6 @@
 {
   "posts": [
-   [{"name":"Serena Perroni","isFav":false},
+   {"name":"Serena Perroni","isFav":false},
 {"name":"Susie Kohlerman","isFav":true},
 {"name":"Eloisa Fauning","isFav":true},
 {"name":"Abigael Peasey","isFav":true},
@@ -999,7 +999,7 @@
 {"name":"Oliver Erratt","isFav":false},
 {"name":"Hubey Harfoot","isFav":true},
 {"name":"Joycelin Reddin","isFav":false},
-{"name":"Mahmoud Moreby","isFav":true}]
+{"name":"Mahmoud Moreby","isFav":true}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
